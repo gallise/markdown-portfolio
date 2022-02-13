@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am **tall** aren't I*
+_I have __hazel__ eyes_
+*Oh*_what_ __a__ **time** *to* _be_ __alive__
